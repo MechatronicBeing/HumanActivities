@@ -1,9 +1,6 @@
 # HumanBeing
 Free public resources : human activities.
 
-## Disclaimer
-- The resources (text, tables, images...) in this repository are provided for educational and informational purposes only.
-
 ## Sources
 - Bureau of Labor Statistics - BLS
 
